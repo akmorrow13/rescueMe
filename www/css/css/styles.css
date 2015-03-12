@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 7, 2015, 7:06:04 PM
+    Author     : AlyssaMOrrow
+*/
+/* imports */
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 7, 2015, 7:27:51 PM
+    Author     : AlyssaMOrrow
+*/
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: 'RobotoDraft', sans-serif; }
+
+.container {
+  width: 80%;
+  margin: 50px auto; }
+
+/* buttons */
+.btn-facebook {
+  background-color: #3b5998;
+  color: #dfe3ee; }
+
+.btn-login {
+  background-color: #FF0000;
+  color: white; }
+
+#page-login .fa-facebook {
+  border-right: 1px solid white;
+  margin-right: 5px;
+  padding-right: 5px; }
+#page-login .btn {
+  width: 100%; }
+
+/*# sourceMappingURL=styles.css.map */

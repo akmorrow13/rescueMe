@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.coolappz.YourFashionFinder" version="1.0.0">
+    <name>YourFashionFinder</name>
+    <description>Cordova Application</description>
+    <author email="info@com.coolappz" href="http://www.coolappz.com">AlyssaMOrrow</author>
+    <access origin="*"/>
+    <preference name="fullscreen" value="true"/>
+    <preference name="webviewbounce" value="true"/>
+</widget>
+
+<gap:plugin name="com.phonegap.plugins.facebookconnect" version="<VERSION>">
+    <param name="APP_ID" value="956566181096311" />
+    <param name="APP_NAME" value="Rescue Me" />
+</gap:plugin>
